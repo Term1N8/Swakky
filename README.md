@@ -1,11 +1,3 @@
-   _____              _    _          
-  / ____|            | |  | |         
- | (_____      ____ _| | _| | ___   _ 
-  \___ \ \ /\ / / _` | |/ / |/ / | | |
-  ____) \ V  V / (_| |   <|   <| |_| |
- |_____/ \_/\_/ \__,_|_|\_\_|\_\__, |
-                                 __/ |
-                                |___/ 
 SMTP goes brrrrr 
 
 usage: swakky.py [-h] [--file FILE] [--to-internal TO_INTERNAL] [--from-internal FROM_INTERNAL] [--to-external TO_EXTERNAL] [--from-external FROM_EXTERNAL] [--subject SUBJECT] [--body BODY] [--prompt]
